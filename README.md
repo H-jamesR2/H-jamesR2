@@ -20,21 +20,24 @@ Here are some ideas to get you started:
   Some of my hobbies are RTS games, music, and badminton.
 
 <details>
-  <summary> 🌱Currently... </summary>
+  <summary> 🌱 Currently... </summary>
+  <ul style="padding-left: 60px;">
   <li> Upskilling and polishing resume.</li>
   <li> Working on resume-source-control web app.</li>
 </details>
 
 <details>
-  <summary> 🔧 TECHNICAL </summary>
-  <li> **Languages**: Java, Python, C/C++, SQL (Postgres, MySQL), JavaScript, HTML/CSS, C#, Some Swift </li>
-  <li> **Frameworks**: React, Node.js, WordPress, TensorFlow, Keras </li>
-  <li> **Developer Tools**: Git, Kubernetes, Docker, AWS, GCP, VS Code, Visual Studio, IntelliJ, Android Studio, Figma, Burp Suite, VMs, VPNs </li>
-  <li> **Libraries:** ReduxJS, NodeJS, Pandas, NumPy, Matplotlib, Scikit-learn, XGBoost, OpenCV </li>
+  <summary> 🔧 Technical </summary>
+  <ul style="padding-left: 60px;">
+  <li> <b>Languages</b>: Java, Python, C/C++, SQL (Postgres, MySQL), JavaScript, HTML/CSS, C#, Some Swift </li>
+  <li> <b>Frameworks</b>: React, Node.js, WordPress, TensorFlow, Keras </li>
+  <li> <b>Developer Tools</b>: Git, Kubernetes, Docker, AWS, GCP, VS Code, Visual Studio, IntelliJ, Android Studio, Figma, Burp Suite, VMs, VPNs </li>
+  <li> <b>Libraries:</b> ReduxJS, NodeJS, Pandas, NumPy, Matplotlib, Scikit-learn, XGBoost, OpenCV </li>
 </details>
 
 <details>
 <summary> ⚡ Interested in learning... </summary>
+  <ul style="padding-left: 60px;">
   <li> full-stack development </li>
   <li> system design </li>
   <li> financial technology </li>
