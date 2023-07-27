@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <summary> 🔧 Technical </summary>
   <ul style="padding-left: 60px;">
   <li> <b>Languages</b>: Java, Python, C/C++, SQL (Postgres, MySQL), JavaScript, HTML/CSS, C#, Some Swift </li>
-  <li> <b>Frameworks</b>: React, Node.js, WordPress, TensorFlow, Keras </li>
+  <li> <b>Frameworks</b>: React, Node.js, WordPress, TensorFlow, Keras, .NET </li>
   <li> <b>Developer Tools</b>: Git, Kubernetes, Docker, AWS, GCP, VS Code, Visual Studio, IntelliJ, Android Studio, Figma, Burp Suite, VMs, VPNs </li>
   <li> <b>Libraries:</b> ReduxJS, NodeJS, Pandas, NumPy, Matplotlib, Scikit-learn, XGBoost, OpenCV </li>
 </details>
