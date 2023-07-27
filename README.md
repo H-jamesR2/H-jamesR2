@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 #### 😄About Me
   I'm Hilarion, a software engineer.
   I'm based in the Northeast. I have a passion for software development and engineering!
-  Some of my hobbies are RTS games, music, and badminton.
+  Some of my hobbies are biking, music, and badminton.
 
 <details>
   <summary> 🌱 Currently... </summary>
