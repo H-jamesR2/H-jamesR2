@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <details>
   <summary> 🔧 Technical </summary>
   <ul style="padding-left: 60px;">
-  <li> <b>Languages</b>: Java, Python, BASH, C/C++, SQL (Postgres, MySQL), JavaScript, HTML/CSS, C#, Some Swift </li>
+  <li> <b>Languages</b>: Java, Python, BASH, C/C++, SQL (Postgres, MySQL), JavaScript, HTML/CSS, C#, GoLang, Some Swift </li>
   <li> <b>Frameworks</b>: React, Node.js, WordPress, TensorFlow, Keras, .NET </li>
   <li> <b>Developer Tools</b>: Git, AWS, GCP, Kubernetes, Docker, Jenkins (CI/CD), Terrarform, VS Code, Visual Studio, IntelliJ, Android Studio, Figma, JIRA, Burp Suite, WireShark, Selenium, VMs, VPNs, [other OSINT-tools] </li>
   <li> <b>Libraries:</b> ReduxJS, NodeJS, Pandas, NumPy, Matplotlib, Scikit-learn, XGBoost, OpenCV </li>
@@ -42,6 +42,7 @@ Here are some ideas to get you started:
   <li> Systems design </li>
   <li> Financial technology </li>
   <li> Artificial intelligence </li>
+  <li> Robotics </li>
   <li> Research and project management </li>
 </details>
 
