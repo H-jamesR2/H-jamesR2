@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 <details>
   <summary> 🔧 Technical </summary>
   <ul style="padding-left: 60px;">
-  <li> <b>Languages</b>: Java, Python, BASH, C/C++, SQL (Postgres, MySQL), JavaScript, HTML/CSS, C#, GoLang, Some Swift </li>
-  <li> <b>Frameworks</b>: React, Node.js, WordPress, TensorFlow, Keras, .NET </li>
-  <li> <b>Developer Tools</b>: Git, AWS, GCP, Kubernetes, Docker, Jenkins (CI/CD), Terrarform, VS Code, Visual Studio, IntelliJ, Android Studio, Figma, JIRA, Burp Suite, WireShark, Selenium, VMs, VPNs, [other OSINT-tools] </li>
+  <li> <b>Languages</b>: Java, Python, BASH, C/C++, JavaScript, TypeScript, SQL (Postgres, MySQL), NoSQL (Cassandra, MongoDB),  HTML/CSS, C#, GoLang, Some Swift </li>
+  <li> <b>Frameworks</b>: React, Node.js, Playwright, Selenium, Jest, TensorFlow, Keras, .NET </li>
+  <li> <b>Developer Tools</b>: Git, AWS, GCP, Kubernetes, Docker, Jenkins (CI/CD), Terrarform, VS Code, Visual Studio, IntelliJ, Android Studio, Figma, JIRA, Apache (Kafka, Spark), Vite, Burp Suite, WireShark, VMs, VPNs, [other OSINT-tools] </li>
   <li> <b>Libraries:</b> ReduxJS, NodeJS, Pandas, NumPy, Matplotlib, Scikit-learn, XGBoost, OpenCV </li>
 </details>
 
