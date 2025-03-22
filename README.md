@@ -21,22 +21,21 @@ Here are some ideas to get you started:
 
 <details>
   <summary> 🌱 Currently... </summary>
-  <ul style="padding-left: 60px;">
+  <ul style=padding-left: 60px;>
   <li> Upskilling.</li>
 </details>
 
 <details>
   <summary> 🔧 Technical </summary>
-  <ul style="padding-left: 60px;">
-  <li> <b>Languages</b>: Java, Python, BASH, C/C++, JavaScript, TypeScript, SQL (Postgres, MySQL), NoSQL (Cassandra, MongoDB),  HTML/CSS, C#, GoLang, Some Swift </li>
-  <li> <b>Frameworks</b>: React, Node.js, Playwright, Selenium, Jest, TensorFlow, Keras, .NET </li>
-  <li> <b>Developer Tools</b>: Git, AWS, GCP, Kubernetes, Docker, Jenkins (CI/CD), Terrarform, VS Code, Visual Studio, IntelliJ, Android Studio, Figma, JIRA, Apache (Kafka, Spark), Vite, Burp Suite, WireShark, VMs, VPNs, [other OSINT-tools] </li>
-  <li> <b>Libraries:</b> ReduxJS, NodeJS, Pandas, NumPy, Matplotlib, Scikit-learn, XGBoost, OpenCV </li>
+  <ul style=padding-left: 60px;>
+  <li> <b>Languages & Databases</b>: Java, Python, C/C++, JavaScript, TypeScript, GoLang, C#, Swift, SQL (PostgreSQL, MySQL), NoSQL (Cassandra, MongoDB), HTML/CSS </li>
+  <li> <b>Frameworks, Libraries & APIs</b>: React, Node.js, .NET (including MVC), Spring Boot, TensorFlow, Keras, Scikit-learn, REST </li>
+  <li> <b>Tools & Technologies</b>: Git, Docker, Kubernetes, Terraform, Jenkins (CI/CD), AWS, GCP, VS Code, IntelliJ, Playwright, Selenium, Jest, Apache Kafka/Spark, OSINT tools, Burp Suite, WireShark, VMs, VPNs, JIRA, Figma, Vite, BASH </li>
 </details>
 
 <details>
 <summary> ⚡ Interested in learning... </summary>
-  <ul style="padding-left: 60px;">
+  <ul style=padding-left: 60px;>
   <li> Full-stack development </li>
   <li> Data Engineering </li>
   <li> Systems design </li>
