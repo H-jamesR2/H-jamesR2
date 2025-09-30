@@ -46,5 +46,5 @@ Here are some ideas to get you started:
 </details>
 
 ## Contact Me! 📫
-- Portfolio: [https://h-jamesr2-portfolio.vercel.app/](https://h-jamesr2-portfolio.vercel.app/)
+- Portfolio: [https://h-jamesr2-portfolio.pages.dev/](https://h-jamesr2-portfolio.pages.dev/)
 - LinkedIn: [linkedin.com/in/hilarion-reyes-james/](https://www.linkedin.com/in/hilarion-reyes-james/) Add a message letting me know you found me from Github!
