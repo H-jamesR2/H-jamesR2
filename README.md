@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 <details>
   <summary> 🔧 Technical </summary>
   <ul style=padding-left: 60px;>
-  <li> <b>Languages & Databases</b>: Java, Python, C/C++, BASH, HTML/CSS, JavaScript, TypeScript, GoLang, C#, SQL (PostgreSQL, MySQL), NoSQL (Cassandra, MongoDB) </li>
-  <li> <b>Frameworks, Libraries & APIs</b>: React.js, Node.js, .NET (including MVC), Spring Boot, TensorFlow, PyTorch, Keras, Scikit-learn, REST </li>
-  <li> <b>Tools & Technologies</b>: Git, Docker, Kubernetes, Terraform, Jenkins (CI/CD), AWS, GCP, Azure, VS Code, IntelliJ, Playwright, Selenium, Apache (Kafka, Spark), Jest, JIRA, Figma, Vite, OSINT tools, VPNs, Burp Suite, WireShark, VMs </li>
+  <li> <b>Languages & Databases</b>: Java, Python, C++, BASH, HTML/CSS, JavaScript, TypeScript, GoLang, C#, SQL (PostgreSQL, MySQL), NoSQL (Cassandra) </li>
+  <li> <b>Frameworks, Libraries & APIs</b>: React.js, Node.js, .NET, Spring Boot, TensorFlow, PyTorch, Keras, Scikit-learn, REST </li>
+  <li> <b>Tools & Technologies</b>: Git, Docker, Kubernetes, Terraform, Jenkins (CI/CD), AWS, GCP, Azure, Playwright, Selenium, Apache (Kafka, Spark), Jest, JIRA, Figma, Vite, OSINT tools, VPNs, Burp Suite, WireShark, VMs </li>
 </details>
 
 <details>
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   <li> Financial technology </li>
   <li> Artificial intelligence </li>
   <li> Robotics </li>
-  <li> Research and project management </li>
+  <li> RAG, Vector DBs </li>
 </details>
 
 ## Contact Me! 📫
